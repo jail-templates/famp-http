@@ -1,4 +1,4 @@
-# Meta package for all templates
+# FAMP (http-only) stack meta-template
 Bastille meta-template to install the Apache HTTP server, MariaDB and PHP (FAMP stack).
 
 * https://github.com/jail-templates/apache-http
